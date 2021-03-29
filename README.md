@@ -12,3 +12,5 @@ Môn học PP NCKH
 - QT 4: Đặt câu hỏi về môn học - **Hoàn thành**
 - QT 6: LEARNING OUTCOMES - **Hoàn thành**
 - QT 7: Góp ý cho PP giảng dạy - **Hoàn thành**
+- QT 11: Công cụ tìm kiếm Google - **Hoàn thành**
+- QT 12: Công cụ Google Scholar - **Hoàn thành**
